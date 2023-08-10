@@ -30,7 +30,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      '', // Empty fileUrl will hide the `Download Resume` button.
+      'https://raw.githubusercontent.com/shpingalet007/shpingalet007.github.io/main/files/PAVEL_VERNIGOROV_CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'JavaScript',
