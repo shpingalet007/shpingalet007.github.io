@@ -122,6 +122,7 @@ const config = {
       description:
         'FlexTLS is a powerful JavaScript library that empowers developers with the ability to generate TLS (Transport Layer Security) packets in a granular and flexible manner. With FlexTLS, you can construct TLS packets byte by byte, granting you complete control over the encryption process. This versatility allows you to use the generated packets in various scenarios, such as creating custom proxies or ensuring secure communication between clients and servers. Can be used for both Node.js and browsers.',
       imageUrl: 'https://raw.githubusercontent.com/shpingalet007/shpingalet007.github.io/main/images/flex-tls.png',
+      link: 'https://github.com/shpingalet007',
     },
     {
       title: 'http-packet',
