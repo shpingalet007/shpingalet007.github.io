@@ -116,22 +116,29 @@ const config = {
   ],
 
   // To hide the `My Projects` section, keep it empty.
-  /* externalProjects: [
+  externalProjects: [
     {
-      title: 'Project Name',
+      title: 'http-packet',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'An NPM module to generate HTTP raw packets. Can be used for both Node.js and browsers.',
+      imageUrl: 'https://raw.githubusercontent.com/shpingalet007/shpingalet007.github.io/main/images/http-packet.png',
+      link: 'https://www.npmjs.com/package/http-packet',
     },
     {
-      title: 'Project Name',
+      title: 'element-selector',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'An NPM module to provide developers with their own element inspector. Can be useful in chrome extensions.',
+      imageUrl: 'https://raw.githubusercontent.com/shpingalet007/shpingalet007.github.io/main/images/element-selector.png',
+      link: 'https://www.npmjs.com/package/element-selector',
     },
-  ], */
+    {
+      title: 'conflictor',
+      description:
+        'An Github Action and binary tool that facilitates conflict detection between pull requests. Developed in the context of Bastyon social network CI/CD, Conflictor proves to be an indispensable tool for ensuring a smooth and conflict-free merging process.',
+      imageUrl: 'https://raw.githubusercontent.com/shpingalet007/shpingalet007.github.io/main/images/conflictor.png',
+      link: 'https://github.com/shpingalet007/conflictor',
+    },
+  ],
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
   },
